@@ -1,3 +1,5 @@
+Expense Tracker Api
+
 A simple and efficient Expense Tracking Application built using Node.js, Express, and MongoDB.
 This app allows users to add expenses, categorize them, track totals, and manage their daily spending easily.
 
